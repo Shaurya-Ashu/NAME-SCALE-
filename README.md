@@ -4,7 +4,6 @@ So we where suppose to create a name tag / badge but i end up craeting a name sc
 # BOM
 
 | No. | Qty | Designator(s) | Component | Footprint | Manufacturer | Manufacturer Part | LCSC Part | Unit Price (USD) |
-
 |:---:|:---:|---------------|-----------|-----------|--------------|-------------------|------------|-----------------:|
 | 1 | 1 | C1 | 1 µF Capacitor | C0402 | Samsung | CL05A105KP5NNNC | C14445 | $0.0016 |
 | 2 | 1 | C2 | 100 nF Capacitor | C0402 | Samsung | CL05B104KO5NNNC | C1525 | $0.0008 |
