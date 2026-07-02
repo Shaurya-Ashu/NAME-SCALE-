@@ -15,6 +15,9 @@ So we where suppose to create a name tag / badge but i end up craeting a name sc
 | 8 | 1 | R1 | 220 Ω Resistor | R0402 | UNI-ROYAL | 0402WGF2200TCE | C25091 | $0.0002 |
 | 9 | 1 | U1 | ESP32-C3 SuperMini | COMM-SMD_16P-L22.5-W18.0-P2.54-TL | - | ESP32C3-SuperMini | C9900147397 | $0.0059 |
 
+# Features
+ I has a light diffuser (the FR4 Matterial)  in the shape of my name and at the back side i have mounted 16 side mounted RGB led's . It has an in-built mic which helps it to sink with both light and the music.
+ It also has a NFC 
 
 
 # Schematics 
